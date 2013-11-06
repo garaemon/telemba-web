@@ -1,0 +1,16 @@
+/* telemba.css */
+#header {
+    background-image: url("../images/telemba_up.JPG");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 400px;
+}
+  #header .tagline {
+      margin-top: 150px;
+      color: white;
+      text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+  }
+  #header h1 {
+      
+  }
