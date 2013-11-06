@@ -14,3 +14,53 @@
   #header h1 {
       
   }
+
+#telemba-description {
+    background-color: rgb(250, 250, 250);
+    margin: 0;
+}
+
+  .heading {
+      height: 80px;
+      line-height: 80px;
+      border-bottom-color: rgb(0, 0, 0);
+      border-bottom-width: 1px;
+      text-align: center;
+      margin: 0;
+  }
+  .telemba-use-case {
+      padding-top: 40px;
+  }
+  .telemba-use-case:last-child {
+      padding-bottom: 20px;
+  }
+  .telemba-use-case-description-section {
+      padding-top: 40px;
+  }
+  .telemba-use-case-image {
+      display: block;
+      width: 100%;
+      max-width: 100%;
+  }
+#telemba-features {
+    background-color: rgb(220, 250, 220);
+}
+
+.feature-heading {
+    text-align: center;
+}
+
+#telemba-features img {
+    display: block;
+    width: 100%;
+}
+
+#telemba-features p {
+    text-align: center;
+    width: 100%;
+}
+
+#footer p {
+    line-height: 80px;
+    text-align: center;
+}
