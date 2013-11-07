@@ -64,3 +64,8 @@
     line-height: 80px;
     text-align: center;
 }
+
+.container {
+    width: 970px !important;
+    max-width: 970px !important;
+}
